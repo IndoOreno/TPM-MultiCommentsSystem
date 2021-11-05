@@ -1,0 +1,6 @@
+#tpm-comments-system-tabs {margin-top: 30px;}
+#tpm-comments-system-tabs ul li img {width: 25px; height: 25px;}
+#tpm-comments-system-tabs .ui-tabs-nav {margin: 0; text-align: center; padding-bottom: 10px;}
+#tpm-comments-system-tabs .ui-tabs-nav li {width: 15%; list-style: none; display: inline-block; float: none; margin: 10px .5em 0 0; text-align: center;}
+#tpm-comments-system-tabs .ui-tabs-nav .ui-state-default {padding: 5px;}
+#tpm-comments-system-tabs .ui-tabs-nav .ui-state-active {background-color: #0274be;}
